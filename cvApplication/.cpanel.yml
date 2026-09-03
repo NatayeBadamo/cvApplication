@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/hrms29/public_html/
-    - /bin/cp -R dist $DEPLOYPATH
+    - /bin/touch $DEPLOYPATH/cpanel-test.txt
