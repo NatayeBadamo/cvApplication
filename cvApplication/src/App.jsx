@@ -31,7 +31,7 @@ function App() {
       <div className="main_grid">
         <div className="grid_one">
           <div className="clear_load">
-            <button className="clear_data">Clear Data</button>
+            <button className="clear_data">Clear the Data</button>
             <button className="load_template">Load Template</button>
           </div>
 
